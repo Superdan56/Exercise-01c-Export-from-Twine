@@ -56,5 +56,5 @@ Created using Twine 2 and exported with [Harlowe 3 to JSON 0.0.6 by Jonathan Sch
 None
 
 ## Created by
-Jason Francis
+Daniel Wright
 ```
